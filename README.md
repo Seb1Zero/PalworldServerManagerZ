@@ -57,5 +57,6 @@ _Credits_
 ---------------
 [Palworld-Rcon-Sharp](https://github.com/calico-crusade/palworld-rcon-sharp)    
 [TroubleChute](https://hub.tcno.co/games/palworld/dedicated_server/)
-[Palworld Server Manager] (https://github.com/TianYu-00/PalworldServerManager)
+[Palworld Server Manager](https://github.com/TianYu-00/PalworldServerManager)
+
 
