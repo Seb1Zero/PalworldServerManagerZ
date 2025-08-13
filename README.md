@@ -40,7 +40,7 @@ New-NetFirewallRule -DisplayName "Palworld Server" -Direction Inbound -LocalPort
 ```
 
 
-_Previews_
+_Old-Previews-of-TianYu_
 -----------------------
 
 **`v1.1.5 Server Settings Preview`**  
@@ -56,8 +56,9 @@ Official way to create dedicated server: https://tech.palworldgame.com/dedicated
 _Credits_
 ---------------
 [Palworld-Rcon-Sharp](https://github.com/calico-crusade/palworld-rcon-sharp)    
-[TroubleChute](https://hub.tcno.co/games/palworld/dedicated_server/)
-[Palworld Server Manager](https://github.com/TianYu-00/PalworldServerManager)
+[TroubleChute](https://hub.tcno.co/games/palworld/dedicated_server/)   
+[Palworld Server Manager](https://github.com/TianYu-00/PalworldServerManager)   
+
 
 
 
