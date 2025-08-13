@@ -1,15 +1,10 @@
 # Palworld Server Manager - Simple Server creating and managing tool.    
 
 > [!NOTE]
-Last Tested Game Version: **`v0.3.9.59545`** using PSM: **`v1.2.0`**   
-Current PSM Language Options Available: **`English`** **`Chinese`**
-This is newly forked and I'm working on it at the moment. 
+This is newly forked and I'm working on it at the moment. For now deleted the Palserversettings Editor which made the Manager usable again. 
 
 > [!IMPORTANT]
-> This is not up-to-date at the moment, I'm working on updating it
-
-> [!IMPORTANT]
-> It is recommended that you use the backup feature I implemented in update `v1.0.4` and beyond to backup your saved files just in case updating your game server causes a loss of player progression. This is not a bug from my side but a bug from Palworld's side, so do remember to use the backup feature just in case.
+> It is recommended that you use the backup feature TianYu implemented in update `v1.0.4` and beyond to backup your saved files just in case updating your game server causes a loss of player progression.
 
 > [!NOTE]
 In order to use Discord Webhook, you need to fill in your **`Webhook URL`** and save it.    
@@ -56,22 +51,11 @@ _Previews_
 
 
 
-_Old Previews_
------------------------
-
-**`v1.1.1 RCON Section Preview`**  
-<img src="https://github.com/TianYu-00/PalworldServerManager/assets/66271788/c0b9df48-8f21-4254-8b60-0610870e6fe6" alt="Image1" style="width: 100%; height: auto;">   
-**`v1.0.8 server restart schedule preview`**    
-<img src="https://github.com/TianYu-00/PalworldServerManager/assets/66271788/94c04aa3-db5b-4258-a47d-d30841655f58" alt="Image1" style="width: 100%; height: auto;">   
-**`v1.1.3 RCON Demo preview`**  
-<img src="https://github.com/TianYu-00/PalworldServerManager/assets/66271788/a143fdfe-d7f8-4ceb-b9f9-16bfffffd968" alt="Image1" style="width: 100%; height: auto;">   
-**`v1.1.0 Full preview`**  
-<img src="https://github.com/TianYu-00/PalworldServerManager/assets/66271788/5448c663-69ce-467d-bf7c-aea35b0f6fa7" alt="Image1" style="width: 100%; height: auto;">   
-
-
 Official way to create dedicated server: https://tech.palworldgame.com/dedicated-server-guide    
 
 _Credits_
 ---------------
 [Palworld-Rcon-Sharp](https://github.com/calico-crusade/palworld-rcon-sharp)    
 [TroubleChute](https://hub.tcno.co/games/palworld/dedicated_server/)
+[Palworld Server Manager] (https://github.com/TianYu-00/PalworldServerManager)
+
